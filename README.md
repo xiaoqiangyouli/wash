@@ -1,2 +1,2 @@
 # wash
-Wash wash sleep
+Wash wash sleep (洗洗睡吧）
